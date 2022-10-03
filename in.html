@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Webpage myportal</title>
     <link rel="stylesheet" href="style.css">
+    <!----add css for icons---->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
 </head>
 <body>
   <div class="main">
@@ -14,6 +16,7 @@
             <h2 class="logo">My Portal</h2>
         </div>
         <div class="menu">
+            <!----Edit link(active)---->
             <ul>
                 <li><a href="#">HOME</a></li>
                 <li><a href="#">INFORMATION</a></li>
@@ -22,31 +25,48 @@
                 <li><a href="#">ABOUT</a></li>
             </ul>
         </div>
-
+        <!----set the button align---->
         <div class="search">
-            <input  class="srch" type="search" name="" placeholder="Type To text"><a href="#"> <button class="btn">SEARCH</button></a>
+            <!----Correct the  class of input tag---->
+            <input  class="search1" type="search" name="" placeholder="Type To text"><a href="#">       
+                <button class="btn">SEARCH</button></a>
         </div>
 
     </div>
     <div class="content">
-        <h1>WebDesign & <br><spam>Development
-        </spam> <br>Course</h1>
-    <p class="par">This is site should be prefered by student information</p>
+      <div class="row-col">
+        <div class="left">
+        <!----Correct the span tag---->
+        <h1>WebDesign &<br><span>Development
+        </span> <br>Course</h1>
+        <!----Correct the spellings on paragraph tag---->
+        <p class="par">This is site should be preferred by student information</p>
 
-    <button class="cn"><a href="#">JOIN US</a></button>
-    <div class="form">
+         <button class="cn"><a href="#">JOIN US</a></button>
+
+        </div>
+         <!----edit part of form---->
+
+        <div class="right">
+        <div class="form">
         <h2>Login Here</h2>
         <input type="email" name="email" placeholder="Enter Email Here">
-        <input type="password" name="" placeholder="Enter Password Here">
-        <button class="btn"><a href="#">Login</a></button>
+        <input type="password" name="" placeholder="Enter Password Here"><center>
+        <button class="btn1"><a href="#">Login</a></button>
 
         <p class="link">Don't have an account<br>
         <a href="#">Sign up here</a></p>
         <p class="liw">Log in with</p>
-    </div>
+    </center>
+        <!----add icons here---->
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <a href="#" class="fa fa-github"></a>
+        </div>  
 
+        </div>
+        </div>
     </div>
-
   </div>
 </body>
 </html>
