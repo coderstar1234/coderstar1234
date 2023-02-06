@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" /></a> </p>
 
 - 🔭 I’m currently working on **eco.portal**
