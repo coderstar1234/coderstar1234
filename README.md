@@ -83,4 +83,4 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 
 <br>
   <br>
-   <img alt="NETLIFY" src="#"/>
+   <img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
