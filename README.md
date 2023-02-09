@@ -3,12 +3,18 @@
 <h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
  <h1 align="center" >  About Me:  </h1>   
 <h3 align="center" >A passionate fullstack developer and cyber security from India</h3>
-
+ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
+  </p>
+  <p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=0e75b6&style=flat" alt="coderstar1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
+<img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" /></a> </p>
 
 - 🔭 I’m currently working on **eco.portal**
@@ -24,7 +30,6 @@
 - 📫 How to reach me **himanshuvashistha552@gmail.com**
 
 - ⚡ Fun fact **I dream to be one of the biggest stock investor and trader**
-<br>
 <br>
 <br>
 <h1 align="center"> 🔗 Connect With Me: </h1>
@@ -48,14 +53,22 @@
 <br>
 <p><a href="https://www.buymeacoffee.com/himanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshu" /></a></p><br>
 <br>
- <h1 align="center"> 🔥 My Stats </h1>
+ <h1 align="center"> Most Used Languages 📚 </h1>
   <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
+<p>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<h1 align="center"> 🔥 My Stats </h1>
+<br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
 <h1 align="center">Blog's 📝</h1>
@@ -82,3 +95,20 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 <br>
   <br>
    <img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+
+
+
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
+<h2 align='center'>Thank You!!!!!</h2>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
+
+------
