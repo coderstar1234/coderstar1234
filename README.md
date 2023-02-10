@@ -67,7 +67,7 @@
  <br>
  <br>
  <br>
-<h1 align="center"> 🔥 My Stats </h1>
+<h1 align="center"> 🔥 My Status </h1>
 <br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
