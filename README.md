@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="1000" height ="200" src="https://th.bing.com/th/id/OIP.4FEkGSqzxh6soqwwfjBOqAHaCe?pid=ImgDet&rs=1">
 <h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
  <h1 align="center" >  About Me:  </h1>   
-<h3 align="center" >A passionate fullstack developer and cyber security from India</h3>
+<h2 align="center" >A passionate fullstack developer and cyber security from India</h2>
  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
 <img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
-<p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a></p>
 
 - 🔭 I’m currently working on **eco.portal**
 
