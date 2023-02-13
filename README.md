@@ -67,9 +67,12 @@
  <br>
  <br>
  <br>
-<h1 align="center"> 🔥 My Status </h1>
+ <br>
+<h1 align="center"> 🔥 My Status </h1><br>
+ <br>
 <br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
-
+<br>
+ <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
@@ -81,7 +84,6 @@ Hello Everyone I Himanshu Vashistha a second-year student and having an experien
   <br>
   <br>
   <br>
-
 <p align="left">
 <a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
 "><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
