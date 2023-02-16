@@ -5,17 +5,13 @@
 <h2 align="center" >A passionate fullstack developer and cyber security from India</h2>
  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
- 
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
-  </p>
-  <p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
+</p>
+<p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=0e75b6&style=flat" alt="coderstar1234" /> </p>
-<br>
 <h1 align="center" >Trophies 🏆:</h1>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
 <img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
@@ -35,7 +31,6 @@
 
 - ⚡ Fun fact **I dream to be one of the biggest stock investor and trader**
 <br>
-<br>
 <h1 align="center"> 🔗 Connect With Me: </h1>
 <p align="center ">
 <a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" height="30" width="40" /></a>
@@ -48,12 +43,10 @@
 <br>
 <br>
 <h1 align="center" >🛠️ Languages and Tools :</h1>
- <h2 align="center"> Technology Stack 💻 </h2>
-
+<h2 align="center"> Technology Stack 💻 </h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
- <h1 align="center"> Programming Languages 👨‍💻 :</h1>
+<h1 align="center"> Programming Languages 👨‍💻 :</h1>
 <br>
 <p align='center'>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -62,10 +55,8 @@
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
- 
 </p>
 <br> 
-
  <h1 align="center" >Frameworks & Libraries 📦 :</h1>
 <br>
 <p align='center'>
@@ -78,8 +69,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 <br>
-
- <h1 align="center" > Design 🎨 :</h1>
+<h1 align="center" > Design 🎨 :</h1>
 <br>
 <p align='center'>
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a
@@ -107,7 +97,6 @@
 <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="40" /></a>
-
 </p>
 <br>
 
@@ -161,10 +150,7 @@
  <h1 align="center"> Most Used Languages 📚 </h1>
   <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
-
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p>
  <br>
  <br>
@@ -172,9 +158,10 @@
  <br>
  <br>
  <br>
-<h1 align="center">Github Stauts 📊 </h1><br>
  <br>
-<br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
+ <br>
+<h1 align="center">Github Stauts 📊 </h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 <br>
  <br>
  <h1 align="center">Github Contribution Streak 🔥 </h1>
