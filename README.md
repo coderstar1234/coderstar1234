@@ -140,13 +140,10 @@
 </p>
 <hr>
 <br>
-
-<br>
 <h1 align="center"> Support Me 🌈 </h>
 <br>
-<br>
+ <br>
 <p><a href="https://www.buymeacoffee.com/himanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshu" /></a></p><br>
-<br>
  <h1 align="center"> Most Used Languages 📚 </h1>
   <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
