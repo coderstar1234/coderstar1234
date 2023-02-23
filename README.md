@@ -161,8 +161,8 @@
 <h1 align="center">Github Stauts 📊 </h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 <br>
- <br>
- <h1 align="center">Github Contribution Streak 🔥 </h1>
+
+<h1 align="center">Github Contribution Streak 🔥 </h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
