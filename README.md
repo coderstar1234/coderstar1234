@@ -141,10 +141,7 @@
 <p><a href="https://www.buymeacoffee.com/himanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshu" /></a></p><br>
  <h1 align="center"> Most Used Languages 📚 </h1>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
-<br>
-<br>
-<br>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
 <br>
 <br>
 <br>
@@ -162,15 +159,17 @@
 </P>
  <br>
  <br>
- <br>
  <hr>
 <br>
 <h1 align="center">Github Stauts 📊 </h1>
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 <br>
+<hr>
 <h1 align="center">Github Contribution Streak 🔥 </h1>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
+<br>
+<hr>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
