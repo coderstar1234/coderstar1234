@@ -148,10 +148,22 @@
  <h1 align="center"> Most Used Languages 📚 </h1>
   <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderstar1234&show_icons=true&locale=en&layout=compact" alt="coderstar1234" /></p>
+<br>
+<br>
+<br>
+<hr>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kanishak11-cyber&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+ <br>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-<p>
+
  <br>
  <br>
+ <hr>
  <br>
  <br>
  <br>
