@@ -1,9 +1,9 @@
 <img align="center" alt="coding" width="1000" height ="200" src="https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=px1mWU9ylPb2CA&riu=http%3a%2f%2fwww.beaude.net%2fno-flux%2fwp-content%2fuploads%2f2015%2f07%2fdLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif&ehk=aO7isVuTfBBl8uoYyZubEWXbyT%2fOyrl0NbwHMJ%2fkkj0%3d&risl=&pid=ImgRaw&r=0">
 <img align="center" alt="coding" width="1000" height ="200" src="https://th.bing.com/th/id/OIP.4FEkGSqzxh6soqwwfjBOqAHaCe?pid=ImgDet&rs=1">
 <h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
- <h1 align="center" >  About Me:  </h1>   
+<h1 align="center" >  About Me:  </h1>   
 <h2 align="center" >A passionate fullstack developer and cyber security from India</h2>
- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
 </p>
@@ -85,14 +85,12 @@
   
 </p>
 <br>
-
- <h1 align="center" > Version Control 🔧 :</h1>
+<h1 align="center" > Version Control 🔧 :</h1>
 <br>
 <p align='center'>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br>
-
- <h1 align ="center"> Social Media 🔗 :</h1>
+<h1 align ="center"> Social Media 🔗 :</h1>
 <br>
 <p align='center'>
 <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a>
@@ -100,8 +98,7 @@
 <a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="40" /></a>
 </p>
 <br>
-
- <h1 align="center"> Hosting 🌎 :</h1>
+<h1 align="center"> Hosting 🌎 :</h1>
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen>
@@ -109,10 +106,7 @@
  </p><p align="center">
  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></p>
- 
 <br>
-
-
  <h1 align="center" > Server 🗃️ : </h1>
 <br>
 <p align='center'>
@@ -151,6 +145,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <hr>
 <p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kanishak11-cyber&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
@@ -158,24 +155,22 @@
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
+<br>
+<hr>
+<p align='center'>
+<img align="center" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+</P>
  <br>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
  <br>
  <br>
  <hr>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
+<br>
 <h1 align="center">Github Stauts 📊 </h1>
+<p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderstar1234&show_icons=true&locale=en" alt="coderstar1234" /></p>
 <br>
-
 <h1 align="center">Github Contribution Streak 🔥 </h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderstar1234&" alt="coderstar1234" /></p>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
