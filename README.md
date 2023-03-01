@@ -204,14 +204,15 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 <br>
 <hr>
 <h1 align="center"> Which Activities Do I Follow For; <h1>
-<p "align:center">
+
 <div style="flex-direction: row" >
+<p align="center">
   <img src="https://img.freepik.com/premium-vector/tennis-logo_20448-250.jpg" width="100" alt="Tennis"/>
   <img src="https://img.freepik.com/premium-vector/motorcycle-logo-vector_628306-40.jpg?w=360" width="100" alt="motorbike"/>
   <img src="https://t4.ftcdn.net/jpg/03/15/06/25/360_F_315062527_Avi1JFli1KPmXcC9Tlcw34YAzcr5nQzn.jpg" width="100" alt="walking"/>
   <img src="https://thumbs.dreamstime.com/b/gym-logo-fitness-center-design-template-black-barbell-isolated-white-background-vector-103252465.jpg" width="100" alt="gym"/>
-</div>
 </p>
+</div>
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 
