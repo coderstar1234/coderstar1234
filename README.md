@@ -212,27 +212,26 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
   <img src="https://t4.ftcdn.net/jpg/03/15/06/25/360_F_315062527_Avi1JFli1KPmXcC9Tlcw34YAzcr5nQzn.jpg" width="100" alt="walking"/>
   <img src="https://thumbs.dreamstime.com/b/gym-logo-fitness-center-design-template-black-barbell-isolated-white-background-vector-103252465.jpg" width="100" alt="gym"/>
 </p>
-  <br>
- <h1 align="center" >🧗‍♂️ Hobbies:</h1>
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **I love Gaming!**
-- **🚲 Bicycle racer**
-- **👨‍💻 Learning new things**
-- **⚽ Playing football**
-- <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Going out with friends**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Watching Movies**
-</div>
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+ <h2 align="center" >🧗‍♂️ Hobbies:</h2>
+ <br>
+ <img width="20" align="left" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"><h4 align="left" >I love Gaming!</h4>
+<h4 align="left" textalign="bold" >🚲 Bicycle racer</h4>
+<h4 align="left" >👨‍💻 Learning new things</h4>
+<h4 align="left" >⚽ Playing football</h4>
+<img width="95" height="35" align="left"src="https://www.logolynx.com/images/logolynx/0d/0daa3e8aeed1a093f6dc171143b47f03.jpeg"><h4 align="left" >Going out with friends</h4>
+<img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> <h4 align="left" >Programming</h4>
+ <img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> <h4 align="left" >Watching Movies</h4>
+ </div>
+ <br>
+ <hr>
+ <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
-
 
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
-
-<h2 align='center'>Thank You!!!!!</h2>
-<br>
+ <h2 align='center'>Thank You!!!!!</h2>
 <hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
