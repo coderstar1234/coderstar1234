@@ -224,7 +224,7 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
-
+<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
