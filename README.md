@@ -214,7 +214,7 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 </p>
  <h2 align="center" >🧗‍♂️ Hobbies:</h2>
  <br>
- <img width="20" align="left" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"><h4 align="left" >I love Gaming!</h4>
+ <img width="40" height="40" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1"><h4 align="left" >I love Gaming!</h4>
 <h4 align="left" textalign="bold" >🚲 Bicycle racer</h4>
 <h4 align="left" >👨‍💻 Learning new things</h4>
 <h4 align="left" >⚽ Playing football</h4>
