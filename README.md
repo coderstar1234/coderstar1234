@@ -89,12 +89,13 @@
 <p align="center">
 <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
+ <img width="95px" src="https://www.buyprotheme.com/wp-content/uploads/2017/08/Sublime-Text-3-icon.png"alt="subllime text" />
   </p>
 <br>
 <h1 align="center" > Version Control 🔧 :</h1>
 <br>
 <p align='center'>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="git" width="40" height="40"/> <img src="https://git-for-windows.github.io/img/gwindows_logo.png" alt="git" width="40" height="40"/> <img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
 <br>
 <h1 align ="center"> Social Media 🔗 :</h1>
 <br>
@@ -102,6 +103,7 @@
 <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="40" /></a>
+ <a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" height="30" width="40" /></a>
 </p>
 <br>
 <h1 align="center"> Hosting 🌎 :</h1>
@@ -110,7 +112,7 @@
 <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen>
  </img>
  </p><p align="center">
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://th.bing.com/th/id/OIP.NGa9x0dI7uzPKkaD8sKHDgHaJ4?pid=ImgDet&rs=1" alt="azure" width="40" height="40"/>  <img src="https://i.pinimg.com/736x/ef/83/a6/ef83a6b83b571bbe41090d81b94741df.jpg" alt="azure" width="40" height="40"/> </a>
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></p>
 <br>
  <h1 align="center" > Server 🗃️ : </h1>
@@ -126,7 +128,7 @@
  <h1 align="center"> Database 💾 :</h1>
 <br>
 <p align='center'>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://alchetron.com/cdn/firebird-database-server-badfe7d8-6959-43a3-b4b4-981996dc8c5-resize-750.jpg" alt="mysql" width="40" height="40"/><img src="https://cdn4.vectorstock.com/i/1000x1000/24/88/eye-vision-icon-gold-logo-vector-14982488.jpg" alt="mysql" width="40" height="40"/> </a>  
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  
 </p>
@@ -135,11 +137,12 @@
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
 <p align='center'>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
   <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/manjaro-icon.svg" alt="Manjaro Icon" />
- <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a >
+ <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  <img src="https://i.ytimg.com/vi/I8AZnjoJIhU/maxresdefault.jpg" alt="kali linux" width="40" height="40"/> <img src="https://i.pinimg.com/originals/44/69/b2/4469b2b093e338b0d11c29297a9116d5.jpg" alt="parrot linux" width="40" height="40"/><img src="https://1000logos.net/wp-content/uploads/2017/06/Symbol-Windows.png" alt="window" width="40" height="40"/> </a >
+ 
 </p>
 <hr>
 <br>
