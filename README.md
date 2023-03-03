@@ -12,7 +12,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=0e75b6&style=flat" alt="coderstar1234" /> </p>
 <h1 align="center" >Trophies 🏆:</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
 <img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a></p>
@@ -222,7 +222,7 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 </p>
  <h2 align="center" >🧗‍♂️ Hobbies:</h2>
  <br>
- <img width="40" height="40" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1"><h4 align="left" >I love Gaming!</h4>
+<img width="50" height="50" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1">I love Gaming!
 <h4 align="left" textalign="bold" >🚲 Bicycle racer</h4>
 <h4 align="left" >👨‍💻 Learning new things</h4>
 <h4 align="left" >⚽ Playing football</h4>
