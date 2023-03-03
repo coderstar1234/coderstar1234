@@ -72,18 +72,24 @@
 <h1 align="center" > Design 🎨 :</h1>
 <br>
 <p align='center'>
+ <img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a
 
 </p>
 <br>
-
+ <h1 align="center" >Testing:  🔧 </h1>
+<br>
+<p align="center">
+ <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" />
+ <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> 
+ </p>
+<br>
  <h1 align="center" > IDEs/Editors 👨‍🔧 : </h1>
 <br>
 <p align="center">
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
-  
-</p>
+<img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+ <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
+  </p>
 <br>
 <h1 align="center" > Version Control 🔧 :</h1>
 <br>
@@ -131,7 +137,9 @@
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 <p align='center'>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a >
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/manjaro-icon.svg" alt="Manjaro Icon" />
+ <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a >
 </p>
 <hr>
 <br>
