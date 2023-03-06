@@ -225,10 +225,10 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 </p>
  <h2 align="center" >🧗‍♂️ Hobbies:</h2>
  <br>
-<img width="50" height="50" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1">I love Gaming!
-<h4 align="left" textalign="bold" >🚲 Bicycle racer</h4>
-<h4 align="left" >👨‍💻 Learning new things</h4>
-<h4 align="left" >⚽ Playing football</h4>
+<img width="50" height="50" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1"> I love Gaming!
+<h4 align="left" textalign="bold" >🚲  Bicycle racer</h4>
+<h4 align="left" >👨‍💻  Learning new things</h4>
+<h4 align="left" >⚽  Playing football</h4>
 <img width="95" height="35" align="left"src="https://www.logolynx.com/images/logolynx/0d/0daa3e8aeed1a093f6dc171143b47f03.jpeg"><h4 align="left" >Going out with friends</h4>
 <img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> <h4 align="left" >Programming</h4>
  <img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> <h4 align="left" >Watching Movies</h4>
