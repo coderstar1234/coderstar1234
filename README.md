@@ -95,7 +95,7 @@
 <h1 align="center" > Version Control 🔧 :</h1>
 <br>
 <p align='center'>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="git" width="40" height="40"/> <img src="https://git-for-windows.github.io/img/gwindows_logo.png" alt="git" width="40" height="40"/> <img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ppLxcXTjQ6-lvYLWPKp2EgHaBi?pid=ImgDet&rs=1" alt="git" width="100" height="35"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="git" width="40" height="40"/> <img src="https://git-for-windows.github.io/img/gwindows_logo.png" alt="git" width="40" height="40"/> <img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
 <br>
 <h1 align ="center"> Social Media 🔗 :</h1>
 <br>
