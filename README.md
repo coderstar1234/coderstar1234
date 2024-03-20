@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **eco.portal**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **ML learning**
 
 - 👯 I’m looking to collaborate on **portal website**
 
