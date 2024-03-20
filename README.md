@@ -116,7 +116,7 @@
  <h1 align="center" > Server 🗃️ : </h1>
 <br>
 <p align='center'>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -189,7 +189,7 @@
 <br>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
+<a href="#" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
 "><strong>My Journey as a frontend developer....</strong></a>
 <br/> Introduction<br>
@@ -198,9 +198,9 @@ Hello Everyone I Himanshu Vashistha a second-year student and having an experien
   <br>
   <br>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
+<a href="#" title="My experience as a particpant at KWoC22
 "><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
-<a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
+<a href="#" title="My experience as a particpant at KWoC22
 "><strong>My experience as a particpant at KWoC22
 </strong></a>
 <br/> What is Kharagpur Winter Of Code 2022(KWoC22) ? <br>
@@ -209,7 +209,7 @@ Kharagpur Winter of Code is a 5-week long online program for students who are ne
 
 <br>
   <br>
-   <img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
+   <img alt="NETLIFY" src="#"/>
 <br>
 <hr>
 <h1 align="center"> Which Activities Do I Follow For; <h1>
