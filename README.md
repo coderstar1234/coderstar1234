@@ -192,7 +192,7 @@
  <h1>My Journey as a frontend developer....</h1>
 <a href="#"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
-"><strong>My Journey as a frontend developer....</strong></a>
+"></a>
 <br/> Introduction<br>
 Hello Everyone I Himanshu Vashistha a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
   <br>
@@ -201,8 +201,7 @@ Hello Everyone I Himanshu Vashistha a second-year student and having an experien
 <p align="left">
  <h1>My experience as a particpant at DRDO internship</h1>
 <a href="#" ><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="KWoC22" width="250px" align="left" /></a>
-<a href="#" title="My experience as a particpant at KWoC22
-"><strong>
+<a href="#"><strong>
 </strong></a>My experience as a particpant at DRDO internship
 <br/>  DRDO internship 2024 <br>
 A heartfelt congratulations to Himanshu Vashistha, B.Tech (IT-3rd year), on embarking on a remarkable journey with DRDO under the Project- Advanced Temperature Monitoring & Optimization System! 🚀 Your dedication, passion, and hard work have truly paid off, Himanshu!
@@ -210,12 +209,7 @@ Entering into such an innovative project signifies the beginning of an incredibl
 Wishing you all the success and fulfillment in this new venture, Himanshu! May this opportunity bring you closer to your aspirations and dreams. The DRDO team is fortunate to have someone as talented and determined as you joining their ranks.
 Here's to seizing every opportunity, overcoming challenges, and achieving remarkable milestones along the way. Your future is incredibly bright, and I can't wait to witness all the amazing things you'll accomplish.
 Congratulations once again, Himanshu! 🎉👏 hashtag#NewVenture hashtag#DRDO hashtag#AdvancedTechnology hashtag#Congratulations hashtag#Success hashtag#HardWorkPaysOff
- 
 
-<br>
-  <br>
-   <img alt="NETLIFY" src="#"/>
-<br>
 <hr>
 <h1 align="center"> Which Activities Do I Follow For; <h1>
 
