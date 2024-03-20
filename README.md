@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="1000" height ="200" src="https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=px1mWU9ylPb2CA&riu=http%3a%2f%2fwww.beaude.net%2fno-flux%2fwp-content%2fuploads%2f2015%2f07%2fdLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif&ehk=aO7isVuTfBBl8uoYyZubEWXbyT%2fOyrl0NbwHMJ%2fkkj0%3d&risl=&pid=ImgRaw&r=0">
-<img align="center" alt="coding" width="1000" height ="200" src="https://th.bing.com/th/id/OIP.4FEkGSqzxh6soqwwfjBOqAHaCe?pid=ImgDet&rs=1">
+<img align="center" alt="coding" width="1000" height ="200" src="[https://th.bing.com/th/id/OIP.4FEkGSqzxh6soqwwfjBOqAHaCe?pid=ImgDet&rs=](https://giffiles.alphacoders.com/174/1744.gif)1">
 <h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
 <h1 align="center" >  About Me:  </h1>   
 <h2 align="center" >A passionate fullstack developer and ML Enginer/AI Enginer from India</h2>
