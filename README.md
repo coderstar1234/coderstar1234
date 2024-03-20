@@ -189,7 +189,8 @@
 <br>
 <h1 align="center">Blog's 📝</h1>
 <p align="left">
-<a href="#" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
+ <h1>My Journey as a frontend developer....</h1>
+<a href="#"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
 "><strong>My Journey as a frontend developer....</strong></a>
 <br/> Introduction<br>
@@ -198,13 +199,17 @@ Hello Everyone I Himanshu Vashistha a second-year student and having an experien
   <br>
   <br>
 <p align="left">
+ <h1>My experience as a particpant at DRDO internship</h1>
+<a href="#" ><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="KWoC22" width="250px" align="left" /></a>
 <a href="#" title="My experience as a particpant at KWoC22
-"><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
-<a href="#" title="My experience as a particpant at KWoC22
-"><strong>My experience as a particpant at KWoC22
-</strong></a>
-<br/> What is Kharagpur Winter Of Code 2022(KWoC22) ? <br>
-Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source , but also prepares them for many open source summer programs; Google Summer of Code being one of them.
+"><strong>
+</strong></a>My experience as a particpant at DRDO internship
+<br/>  DRDO internship 2024 <br>
+A heartfelt congratulations to Himanshu Vashistha, B.Tech (IT-3rd year), on embarking on a remarkable journey with DRDO under the Project- Advanced Temperature Monitoring & Optimization System! 🚀 Your dedication, passion, and hard work have truly paid off, Himanshu!
+Entering into such an innovative project signifies the beginning of an incredible chapter filled with learning, growth, and groundbreaking contributions. Your commitment to excellence and your drive to make a difference are truly commendable.
+Wishing you all the success and fulfillment in this new venture, Himanshu! May this opportunity bring you closer to your aspirations and dreams. The DRDO team is fortunate to have someone as talented and determined as you joining their ranks.
+Here's to seizing every opportunity, overcoming challenges, and achieving remarkable milestones along the way. Your future is incredibly bright, and I can't wait to witness all the amazing things you'll accomplish.
+Congratulations once again, Himanshu! 🎉👏 hashtag#NewVenture hashtag#DRDO hashtag#AdvancedTechnology hashtag#Congratulations hashtag#Success hashtag#HardWorkPaysOff
  
 
 <br>
