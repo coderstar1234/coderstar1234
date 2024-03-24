@@ -223,7 +223,7 @@
 <a href="#"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
 "></a><br>
-<br> Introduction<br>
+<br> <h2>Introduction:</h2><br>
 Hello Everyone I Himanshu Vashistha a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
   <br>
   <br>
@@ -233,9 +233,8 @@ Hello Everyone I Himanshu Vashistha a second-year student and having an experien
   <br>
  <h1>My experience as a particpant at DRDO internship</h1>
 <a href="#" ><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="KWoC22" width="250px" align="left" /></a>
-<a href="#"><strong>
-</strong></a>My experience as a particpant at DRDO internship
-<br/>  DRDO internship 2024 <br>
+<a href="#">
+<br/><h2>DRDO internship 2024</h2>   
 A heartfelt congratulations to Himanshu Vashistha, B.Tech (IT-3rd year), on embarking on a remarkable journey with DRDO under the Project- Advanced Temperature Monitoring & Optimization System! 🚀 Your dedication, passion, and hard work have truly paid off, Himanshu!
 Entering into such an innovative project signifies the beginning of an incredible chapter filled with learning, growth, and groundbreaking contributions. Your commitment to excellence and your drive to make a difference are truly commendable.
 Wishing you all the success and fulfillment in this new venture, Himanshu! May this opportunity bring you closer to your aspirations and dreams. The DRDO team is fortunate to have someone as talented and determined as you joining their ranks.
