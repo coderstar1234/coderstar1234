@@ -16,8 +16,8 @@
 
 <img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a></p>
-- 🔭 Currently working on ML projects<br>
 
+- 🔭 Currently working on ML projects<br>
 - 🌱 Learning ML<br>
 - 👯 Seeking collaboration on portal websites<br>
 - 👨‍💻 Find my projects at coderstar1234<br>
