@@ -106,6 +106,11 @@
 <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
  <img width="95px" src="https://www.buyprotheme.com/wp-content/uploads/2017/08/Sublime-Text-3-icon.png"alt="subllime text" />
+ <img width="95px" src="https://activators4windows.com/wp-content/uploads/2021/02/logo-1536x1536.png"alt="#" />
+ <img width="95px" src="https://th.bing.com/th?id=OSK.824e0eeab849b0612d69d774348fba57&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM"alt="#" />
+ <img width="95px" src="https://th.bing.com/th/id/OIP.LBlEJ8VRw-YoBk41nuitggHaHa?rs=1&pid=ImgDetMain"alt="#" />
+  <img width="95px" src="https://th.bing.com/th/id/OIP.z8IlrWqSGlOV8Q4mHYbB2AHaE4?w=289&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7"alt="#" />
+  <img width="95px" src="https://th.bing.com/th?id=OSAAS.13CC580E83058E01D0413A86E125EFA6&w=80&h=80&c=1&rs=1&o=6&dpr=1.3&pid=5.1"alt="#" />
   </p>
 <br>
 <h1 align="center" > Version Control 🔧 :</h1>
