@@ -96,7 +96,7 @@
  <img width="55px" src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="#" />
  <img width="55px" src="https://th.bing.com/th?id=ODLS.13d10589-3482-48de-a913-709672dfaab0&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" />
   <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="#" />
- <img width="55px" src="https://th.bing.com/th?id=ODLS.6a707a72-de96-4817-80c2-1a5a03b67d9b&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" />
+ <img width="55px" src="https://th.bing.com/th/id/R.18bfea2a1b0c33427a36b2e6a9b196f5?rik=wZ6shfpGsr5deg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fsoapui-icon.png&ehk=XUL%2f4Ak0uAob4xsc3VafGr5B0eB91YteEPegEf3%2fQBY%3d&risl=&pid=ImgRaw&r=0" alt="#" />
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> 
  </p>
 <br>
