@@ -93,6 +93,11 @@
 <br>
 <p align="center">
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" />
+  <img width="55px" src="https://blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png" alt="#" />
+ <img width="55px" src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="#" />
+ <img width="55px" src="https://th.bing.com/th?id=ODLS.13d10589-3482-48de-a913-709672dfaab0&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" />
+  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="#" />
+ <img width="55px" src="https://th.bing.com/th?id=ODLS.6a707a72-de96-4817-80c2-1a5a03b67d9b&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" />
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> 
  </p>
 <br>
