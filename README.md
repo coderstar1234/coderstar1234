@@ -51,7 +51,10 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://wallpapercave.com/wp/wp7250087.jpg" alt="kotlin" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/non_2x/3d-c-programming-language-logo-free-png.png" alt="kotlin" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://ih0.redbubble.net/image.522698608.2413/pp,550x550.u4.jpg" alt="kotlin" width="40" height="40"/> </a>
 </p>
 <br> 
  <h1 align="center" >Frameworks & Libraries 📦 :</h1>
