@@ -2,10 +2,12 @@
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px; margin-bottom: 10px;" src="https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=px1mWU9ylPb2CA&riu=http%3a%2f%2fwww.beaude.net%2fno-flux%2fwp-content%2fuploads%2f2015%2f07%2fdLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif&ehk=aO7isVuTfBBl8uoYyZubEWXbyT%2fOyrl0NbwHMJ%2fkkj0%3d&risl=&pid=ImgRaw" alt="coding">
 <!-- Second Image -->
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px;" src="https://giffiles.alphacoders.com/174/1744.gif" alt="coding">
-
-<h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
-<h1 align="center" >  About Me:  </h1>   
-<h2 align="center" >Passionate Indian fullstack developer skilled in ML/AI, dedicated to innovative problem-solving and robust application development.</h2>
+<!-- First Heading -->
+<h1 align="center" style="font-family: Arial, sans-serif; font-size: 36px;">Hi 👋, I'm Himanshu Vashistha</h1>
+<!-- Second Heading -->
+<h1 align="center" style="font-family: Arial, sans-serif; font-size: 24px;">About Me:</h1>
+<!-- Third Heading -->
+<h2 align="center" style="font-family: Arial, sans-serif; font-size: 20px;">Passionate Indian fullstack developer skilled in ML/AI, dedicated to innovative problem-solving and robust application development.</h2>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
