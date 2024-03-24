@@ -23,8 +23,7 @@
 - 👨‍💻 Find my projects at coderstar1234<br>
 - 💬 Ask me about Wireshark, DNS breaking<br>
 - 📫 Reach me at himanshuvashistha552@gmail.com<br>
-
--⚡ Fun fact: Aspiring to be a major stock investor and trader, creating new dreams along the way.<br>
+- ⚡ Fun fact: Aspiring to be a major stock investor and trader, creating new dreams along the way.<br>
 <br>
 <h1 align="center"> 🔗 Connect With Me: </h1>
 <p align="center ">
