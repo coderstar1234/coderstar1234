@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="1000" height ="200" src="https://giffiles.alphacoders.com/174/1744.gif">
 <h1 align="center"  >Hi 👋, I'm Himanshu Vashistha</h1>
 <h1 align="center" >  About Me:  </h1>   
-<h2 align="center" >A passionate fullstack developer and ML Enginer/AI Enginer from India</h2>
+<h2 align="center" >Passionate Indian fullstack developer skilled in ML/AI, dedicated to innovative problem-solving and robust application development.</h2>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
