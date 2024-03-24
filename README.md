@@ -16,13 +16,13 @@
 
 <img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a></p>
-- 🔭 Currently working on ML projects
-- 🌱 Learning ML
-- 👯 Seeking collaboration on portal websites
-- 👨‍💻 Find my projects at coderstar1234
-- 💬 Ask me about Wireshark, DNS breaking
-- 📫 Reach me at himanshuvashistha552@gmail.com
--⚡ Fun fact: Aspiring to be a major stock investor and trader, creating new dreams along the way.
+- 🔭 Currently working on ML projects<br>
+- 🌱 Learning ML<br>
+- 👯 Seeking collaboration on portal websites<br>
+- 👨‍💻 Find my projects at coderstar1234<br>
+- 💬 Ask me about Wireshark, DNS breaking<br>
+- 📫 Reach me at himanshuvashistha552@gmail.com<br>
+-⚡ Fun fact: Aspiring to be a major stock investor and trader, creating new dreams along the way.<br>
 <br>
 <h1 align="center"> 🔗 Connect With Me: </h1>
 <p align="center ">
