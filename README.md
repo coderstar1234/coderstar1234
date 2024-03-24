@@ -7,7 +7,7 @@
 <!-- Second Heading -->
 <h1 align="center" style="font-family: Arial, sans-serif; font-size: 24px;">About Me:</h1>
 <!-- Third Heading -->
-<h2 align="center" style="font-family: Arial, sans-serif; font-size: 20px;">Passionate Indian fullstack developer skilled in ML/AI, dedicated to innovative problem-solving and robust application development.</h2>
+<h2 align="center" style="font-family: Arial, sans-serif; font-size: 20px;">Passionate fullstack developer skilled in ML/AI, dedicated to innovative problem-solving.</h2>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
