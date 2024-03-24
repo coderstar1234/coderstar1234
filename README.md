@@ -116,7 +116,10 @@
 <h1 align="center" > Version Control 🔧 :</h1>
 <br>
 <p align='center'>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://git-for-windows.github.io/img/gwindows_logo.png" alt="git" width="40" height="40"/> <img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://s9i7q5a6.rocketcdn.me/solutions/wp-content/uploads/2022/10/HuggingfaceLogo1.png" alt="git" width="100" height="45"/> </a>
+ 
 <br>
 <h1 align ="center"> Social Media 🔗 :</h1>
 <br>
