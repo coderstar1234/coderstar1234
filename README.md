@@ -32,14 +32,13 @@
 <br>
 <h1 align="center"> 🔗 Connect With Me: </h1>
 <p align="center ">
-<a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@himanshu1234303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@himanshu1234303" height="30" width="40" /></a>
-<a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" height="30" width="40" /></a>
+<a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" style="border-radius: 50%;" height="30" width="30" /></a>
+<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" style="border-radius: 50%;" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" style="border-radius: 50%;" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" style="border-radius: 50%;" height="30" width="30" /></a>
+<a href="https://hashnode.com/@himanshu1234303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@himanshu1234303" style="border-radius: 50%;" height="30" width="30" /></a>
+<a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" style="border-radius: 50%;" height="30" width="30" /></a>
 </p>
-<br>
 <br>
 <h1 align="center" >🛠️ Languages and Tools :</h1>
 <h2 align="center"> Technology Stack 💻 </h2>
@@ -110,18 +109,18 @@
 <p align="center">
 <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
- <img width="95px" src="https://www.buyprotheme.com/wp-content/uploads/2017/08/Sublime-Text-3-icon.png"alt="subllime text" />
- <img width="95px" src="https://activators4windows.com/wp-content/uploads/2021/02/logo-1536x1536.png"alt="#" />
- <img width="95px" src="https://th.bing.com/th?id=OSK.824e0eeab849b0612d69d774348fba57&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM"alt="#" />
- <img width="95px" src="https://th.bing.com/th/id/OIP.LBlEJ8VRw-YoBk41nuitggHaHa?rs=1&pid=ImgDetMain"alt="#" />
-  <img width="95px" src="https://th.bing.com/th/id/OIP.z8IlrWqSGlOV8Q4mHYbB2AHaE4?w=289&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7"alt="#" />
-  <img width="95px" src="https://th.bing.com/th?id=OSAAS.13CC580E83058E01D0413A86E125EFA6&w=80&h=80&c=1&rs=1&o=6&dpr=1.3&pid=5.1"alt="#" />
+ <img width="55px" src="https://www.buyprotheme.com/wp-content/uploads/2017/08/Sublime-Text-3-icon.png"alt="subllime text" />
+ <img width="55px" src="https://activators4windows.com/wp-content/uploads/2021/02/logo-1536x1536.png"alt="#" />
+ <img width="55px" src="https://th.bing.com/th?id=OSK.824e0eeab849b0612d69d774348fba57&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM"alt="#" />
+ <img width="55px" src="https://th.bing.com/th/id/OIP.LBlEJ8VRw-YoBk41nuitggHaHa?rs=1&pid=ImgDetMain"alt="#" />
+  <img width="55px" src="https://th.bing.com/th/id/OIP.z8IlrWqSGlOV8Q4mHYbB2AHaE4?w=289&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7"alt="#" />
+  <img width="55px" src="https://th.bing.com/th?id=OSAAS.13CC580E83058E01D0413A86E125EFA6&w=80&h=80&c=1&rs=1&o=6&dpr=1.3&pid=5.1"alt="#" />
   </p>
 <br>
 <h1 align="center" > Version Control 🔧 :</h1>
 <br>
 <p align='center'>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="45"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://thewhiteh4t.github.io/images/posts/github_banner_min.jpg" alt="git" width="100" height="45"/> </a>
     <a href="#" target="_blank" rel="noreferrer"><img src="https://s9i7q5a6.rocketcdn.me/solutions/wp-content/uploads/2022/10/HuggingfaceLogo1.png" alt="git" width="100" height="45"/> </a>
  
@@ -129,10 +128,10 @@
 <h1 align ="center"> Social Media 🔗 :</h1>
 <br>
 <p align='center'>
-<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="40" /></a>
- <a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" height="30" width="50" /></a>
+<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" height="30" width="50" /></a>
+ <a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" height="30" width="50" /></a>
 </p>
 <br>
 <h1 align="center"> Hosting 🌎 :</h1>
@@ -223,13 +222,15 @@
  <h1>My Journey as a frontend developer....</h1>
 <a href="#"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
-"></a>
-<br/> Introduction<br>
+"></a><br>
+<br> Introduction<br>
 Hello Everyone I Himanshu Vashistha a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
   <br>
   <br>
   <br>
 <p align="left">
+ <br>
+  <br>
  <h1>My experience as a particpant at DRDO internship</h1>
 <a href="#" ><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="KWoC22" width="250px" align="left" /></a>
 <a href="#"><strong>
