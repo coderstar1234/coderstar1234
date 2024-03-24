@@ -61,10 +61,18 @@
 <br>
 <p align='center'>
 <p align="center">
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gc8-FBibt7bGBCR40QxYbAHaKA?rs=1&pid=ImgDetMain" alt="flask" width="40" height="40"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gc8-FBibt7bGBCR40QxYbAHaKA?rs=1&pid=ImgDetMain" alt="flask" width="40" height="40"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.theclickreader.com/wp-content/uploads/2021/10/NumPy-Logo.png" alt="NumPy" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.E5J8npHStXRaoCta8S8UHgHaBf?rs=1&pid=ImgDetMain" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.LRW8UBZq8iNKoOHLgCK2MwHaEK?rs=1&pid=ImgDetMain" alt="Tensorflow" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="keras" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.U29Jw6mj7C3mBMCfT2c58wHaCJ?rs=1&pid=ImgDetMain" alt="keras" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Dd8IBe1AjWvzyhJzTjBftwHaD_?rs=1&pid=ImgDetMain" alt="Sckitlearn" width="40" height="40"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 <br>
 <h1 align="center" > Design 🎨 :</h1>
