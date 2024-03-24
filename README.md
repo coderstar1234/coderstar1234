@@ -79,7 +79,13 @@
 <br>
 <p align='center'>
  <img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a
+ <img width="40px" src="https://th.bing.com/th/id/OIP.6hpx3Mwy5HO85Nf6FvwGBQHaHa?rs=1&pid=ImgDetMain" alt="Canva" />
+ <img width="40px" src="https://1.bp.blogspot.com/-59kx_fxhrk4/VHsmin43jWI/AAAAAAAAADU/KZhAvKSsMSM/s1600/O2010.JPEG" alt="#" />
+ <img width="40px" src="https://th.bing.com/th?id=ODLS.98da2850-328f-4eb7-b848-2cb86cca5e80&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="#" />
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a
 
 </p>
 <br>
