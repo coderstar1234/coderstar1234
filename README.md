@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
 </p>
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkdHE4bGxqaTJ3dXRubW9hbzFxdGptdzU3MHZjN3hzcTVwazF1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=0e75b6&style=flat" alt="coderstar1234" /> </p>
 <h1 align="center" >Trophies 🏆:</h1>
