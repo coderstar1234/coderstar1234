@@ -1,36 +1,63 @@
-<!-- First Image -->
+u8<!-- First Image -->
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px; margin-bottom: 10px;" src="https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=px1mWU9ylPb2CA&riu=http%3a%2f%2fwww.beaude.net%2fno-flux%2fwp-content%2fuploads%2f2015%2f07%2fdLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif&ehk=aO7isVuTfBBl8uoYyZubEWXbyT%2fOyrl0NbwHMJ%2fkkj0%3d&risl=&pid=ImgRaw" alt="coding">
 <!-- Second Image -->
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px;" src="https://giffiles.alphacoders.com/174/1744.gif" alt="coding">
-<!-- First Heading -->
-<h1 align="center" style="font-family: Arial, sans-serif; font-size: 36px;">Hi 👋, I'm Himanshu Vashistha</h1>
-<!-- Second Heading -->
-<h1 align="center" style="font-family: Arial, sans-serif; font-size: 24px;">About Me:</h1>
-<!-- Third Heading -->
-<h2 align="center" style="font-family: Arial, sans-serif; font-size: 20px;">Passionate fullstack developer skilled in ML/AI, dedicated to innovative problem-solving.</h2>
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" align='center'>
+<!-- Attractive CSS Applied Directly to Original Structure -->
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 42px; color: #00f7ff; text-shadow: 2px 2px 6px rgba(0,0,0,0.6); letter-spacing:1px; margin-bottom: 10px;">Hi 👋, I'm Himanshu Vashistha</h1>
+
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 30px; color: #FFD700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">💻 About Me:</h1>
+
+<h2 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 22px; color: #a0f7ff; text-shadow:1px 1px 4px rgba(0,0,0,0.5); line-height:1.6; max-width:800px; margin:auto;">Passionate <strong style="color:#FFD700;">Fullstack Developer</strong> skilled in <strong style="color:#FFD700;">ML/AI</strong>, dedicated to innovative problem-solving.</h2>
+
+<p align="center" style="margin-top:10px;">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" style="vertical-align:middle;">
 </p>
-<p align='center'>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkdHE4bGxqaTJ3dXRubW9hbzFxdGptdzU3MHZjN3hzcTVwazF1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=0e75b6&style=flat" alt="coderstar1234" /> </p>
-<h1 align="center" >Trophies 🏆:</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderstar1234" alt="coderstar1234" /></a> </p>
 
-<img align="right" alt="coding" width="320" height="300" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
-<p align="left"> <a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" height="30" width="40" /></a></p>
+<p align='center' style="margin-top:15px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFDD00&size=26&center=true&vCenter=true&lines=I'm+Himanshu+vashistha;IT+Student;Cooking+Projects;%coderstar1234" style="box-shadow:0 4px 10px rgba(0,0,0,0.3); border-radius:8px;">
+</p>
 
-- 🔭 Currently working on ML projects<br>
-- 🌱 Learning ML<br>
-- 👯 Seeking collaboration on portal websites<br>
-- 👨‍💻 Find my projects at coderstar1234<br>
-- 💬 Ask me about Wireshark, DNS breaking<br>
-- 📫 Reach me at himanshuvashistha552@gmail.com<br>
-- ⚡ Fun fact: Aspiring to be a major stock investor and trader, creating new dreams along the way.<br>
-<br>
-<br>
+<p align='center' style="margin-top:20px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkdHE4bGxqaTJ3dXRubW9hbzFxdGptdzU3MHZjN3hzcTVwazF1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" style="border-radius:20px; border:4px solid #FFD700; box-shadow:0 6px 15px rgba(0,0,0,0.5);">
+</p>
+
+<hr style="border:1px solid #00f7ff; width:80%; margin:25px auto;">
+
+<p align="left" style="margin-left:10px;">
+  <img src="https://komarev.com/ghpvc/?username=coderstar1234&label=Profile%20views&color=00d9ff&style=for-the-badge" style="border-radius:5px;">
+</p>
+
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size:32px; color:#FF6F61; text-shadow:1px 1px 4px rgba(0,0,0,0.5);">Trophies 🏆:</h1>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=coderstar1234&theme=onedark&row=1&column=6" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.4);">
+  </a>
+</p>
+
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 52px; color: #00eaff; text-shadow: 4px 4px 14px rgba(0,0,0,0.9); letter-spacing:2px; margin-bottom: 18px; font-weight:900;">Hi 👋, I'm Himanshu Vashistha</h1>
+
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 38px; color: #FFD700; text-transform: uppercase; letter-spacing: 2.5px; margin-bottom: 18px; font-weight:800; text-shadow:2px 2px 10px rgba(0,0,0,0.7);">💻 About Me:</h1>
+
+<div style="display:grid; grid-template-columns: 1fr 350px; grid-gap:25px; max-width:1050px; margin:auto; align-items:start;">
+  <div>
+    <h2 style="font-family: 'Poppins', Arial, sans-serif; font-size: 24px; color: #d1faff; text-shadow:2px 2px 8px rgba(0,0,0,0.7); line-height:2; font-weight:500;">
+      🔭 <strong style="color:#FFD700; font-weight:600;">Currently working on ML projects</strong><br>
+      🌱 <strong style="color:#FFD700; font-weight:600;">Learning Machine Learning</strong><br>
+      👯 <strong style="color:#FFD700; font-weight:600;">Seeking collaboration on portal websites</strong><br>
+      👨‍💻 <strong style="color:#FFD700; font-weight:600;">Find my projects at coderstar1234</strong><br>
+      💬 <strong style="color:#FFD700; font-weight:600;">Ask me about Wireshark, DNS breaking</strong><br>
+      📫 <strong style="color:#FFD700; font-weight:600;">Reach me at himanshuvashistha552@gmail.com</strong><br>
+      ⚡ <strong style="color:#FFD700; font-weight:600;">Aspiring stock investor and trader</strong><br>
+    </h2>
+    <p style="margin-top:22px;">
+      <a href="https://twitter.com/himansh19964597" target="_blank" style="display:inline-block; transition: all 0.3s ease;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="48" width="48" style="margin-right:16px; filter: drop-shadow(0 6px 10px rgba(0,0,0,0.85)); border-radius:50%; background:#1DA1F2; padding:6px; transition: transform 0.3s ease;">
+      </a>
+    </p>
+  </div>
+</div>
+
 <h1 align="center"> 🔗 Connect With Me: </h1>
 <p align="center ">
 <a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" style="border-radius: 50%;" height="30" width="30" /></a>
