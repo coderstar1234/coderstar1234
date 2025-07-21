@@ -50,22 +50,18 @@ u8<!-- First Image -->
       📫 <strong style="color:#FFD700; font-weight:600;">Reach me at himanshuvashistha552@gmail.com</strong><br>
       ⚡ <strong style="color:#FFD700; font-weight:600;">Aspiring stock investor and trader</strong><br>
     </h2>
-    <p style="margin-top:22px;">
-      <a href="https://twitter.com/himansh19964597" target="_blank" style="display:inline-block; transition: all 0.3s ease;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="48" width="48" style="margin-right:16px; filter: drop-shadow(0 6px 10px rgba(0,0,0,0.85)); border-radius:50%; background:#1DA1F2; padding:6px; transition: transform 0.3s ease;">
-      </a>
-    </p>
   </div>
 </div>
 
-<h1 align="center"> 🔗 Connect With Me: </h1>
-<p align="center ">
-<a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" style="border-radius: 50%;" height="30" width="30" /></a>
-<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" style="border-radius: 50%;" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" style="border-radius: 50%;" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" style="border-radius: 50%;" height="30" width="30" /></a>
-<a href="https://hashnode.com/@himanshu1234303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@himanshu1234303" style="border-radius: 50%;" height="30" width="30" /></a>
-<a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" style="border-radius: 50%;" height="30" width="30" /></a>
+<h1 align="center" style="font-family: 'Poppins', Arial, sans-serif; font-size: 38px; color: #00eaff; text-shadow: 2px 2px 8px rgba(0,0,0,0.6); letter-spacing:1.5px; margin-bottom:14px; font-weight:800;"> 🔗 Connect With Me: </h1>
+
+<p align="center" style="margin-top:10px;">
+<a href="https://dev.to/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himanshu vashistha" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/himansh19964597?t=fnnb7ufjgmkegj3ymyzxnq&s=03" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/himanshu vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vashistha" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himanshu" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
+<a href="https://hashnode.com/@himanshu1234303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@himanshu1234303" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
+<a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
 </p>
 <br>
 <h1 align="center" >🛠️ Languages and Tools :</h1>
