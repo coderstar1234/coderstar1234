@@ -1,4 +1,4 @@
-u8<!-- First Image -->
+<!-- First Image -->
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px; margin-bottom: 10px;" src="https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=px1mWU9ylPb2CA&riu=http%3a%2f%2fwww.beaude.net%2fno-flux%2fwp-content%2fuploads%2f2015%2f07%2fdLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif&ehk=aO7isVuTfBBl8uoYyZubEWXbyT%2fOyrl0NbwHMJ%2fkkj0%3d&risl=&pid=ImgRaw" alt="coding">
 <!-- Second Image -->
 <img style="display: block; margin: 0 auto; width: 1000px; height: 200px; border: 2px solid black; border-radius: 20px;" src="https://giffiles.alphacoders.com/174/1744.gif" alt="coding">
@@ -64,70 +64,74 @@ u8<!-- First Image -->
 <a href="https://discord.gg/hvcoderstar1234#5327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hvcoderstar1234#5327" style="border-radius: 50%; box-shadow:0 4px 10px rgba(0,0,0,0.5); margin:0 8px; transition:transform 0.3s ease;" height="40" width="40" /></a>
 </p>
 <br>
-<h1 align="center" >🛠️ Languages and Tools :</h1>
-<h2 align="center"> Technology Stack 💻 </h2>
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<h1 align="center"> Programming Languages 👨‍💻 :</h1>
-<br>
-<p align='center'>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://wallpapercave.com/wp/wp7250087.jpg" alt="kotlin" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/non_2x/3d-c-programming-language-logo-free-png.png" alt="kotlin" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://ih0.redbubble.net/image.522698608.2413/pp,550x550.u4.jpg" alt="kotlin" width="40" height="40"/> </a>
-</p>
-<br> 
- <h1 align="center" >Frameworks & Libraries 📦 :</h1>
-<br>
-<p align='center'>
-<p align="center">
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gc8-FBibt7bGBCR40QxYbAHaKA?rs=1&pid=ImgDetMain" alt="flask" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.theclickreader.com/wp-content/uploads/2021/10/NumPy-Logo.png" alt="NumPy" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.E5J8npHStXRaoCta8S8UHgHaBf?rs=1&pid=ImgDetMain" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.LRW8UBZq8iNKoOHLgCK2MwHaEK?rs=1&pid=ImgDetMain" alt="Tensorflow" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="keras" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.U29Jw6mj7C3mBMCfT2c58wHaCJ?rs=1&pid=ImgDetMain" alt="keras" width="40" height="40"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Dd8IBe1AjWvzyhJzTjBftwHaD_?rs=1&pid=ImgDetMain" alt="Sckitlearn" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-</p>
-<br>
-<h1 align="center" > Design 🎨 :</h1>
-<br>
-<p align='center'>
- <img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
- <img width="40px" src="https://th.bing.com/th/id/OIP.6hpx3Mwy5HO85Nf6FvwGBQHaHa?rs=1&pid=ImgDetMain" alt="Canva" />
- <img width="40px" src="https://1.bp.blogspot.com/-59kx_fxhrk4/VHsmin43jWI/AAAAAAAAADU/KZhAvKSsMSM/s1600/O2010.JPEG" alt="#" />
- <img width="40px" src="https://th.bing.com/th?id=ODLS.98da2850-328f-4eb7-b848-2cb86cca5e80&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="#" />
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:42px; color:#00eaff; text-shadow:2px 2px 8px rgba(0,0,0,0.7); letter-spacing:1.5px; font-weight:800; margin-bottom:12px;">🛠️ Languages and Tools :</h1>
 
+<h2 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:28px; color:#FFD700; text-shadow:1px 1px 6px rgba(0,0,0,0.5); margin-bottom:14px;">Technology Stack 💻</h2>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" style="border-radius:20px; box-shadow:0 8px 18px rgba(0,0,0,0.7); border:3px solid #00eaff;"/>
+</p>
+
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:38px; color:#00eaff; text-shadow:2px 2px 8px rgba(0,0,0,0.6); margin-top:18px; margin-bottom:14px;">Programming Languages 👨‍💻 :</h1>
+<br>
+<p align='center'>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://wallpapercave.com/wp/wp7250087.jpg" alt="kotlin" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/non_2x/3d-c-programming-language-logo-free-png.png" alt="c logo" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://ih0.redbubble.net/image.522698608.2413/pp,550x550.u4.jpg" alt="kotlin" style="width:50px; height:50px; margin:6px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.5); transition:transform 0.3s ease;"/> </a>
 </p>
 <br>
- <h1 align="center" >Testing:  🔧 </h1>
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:42px; color:#00eaff; text-shadow:2px 2px 8px rgba(0,0,0,0.7); letter-spacing:1.5px; font-weight:800; margin-bottom:12px;">Frameworks & Libraries 📦 :</h1>
+<br>
+<p align='center'>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gc8-FBibt7bGBCR40QxYbAHaKA?rs=1&pid=ImgDetMain" alt="flask" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.theclickreader.com/wp-content/uploads/2021/10/NumPy-Logo.png" alt="NumPy" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.E5J8npHStXRaoCta8S8UHgHaBf?rs=1&pid=ImgDetMain" alt="matplotlib" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.LRW8UBZq8iNKoOHLgCK2MwHaEK?rs=1&pid=ImgDetMain" alt="Tensorflow" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="seaborn" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.U29Jw6mj7C3mBMCfT2c58wHaCJ?rs=1&pid=ImgDetMain" alt="keras" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Dd8IBe1AjWvzyhJzTjBftwHaD_?rs=1&pid=ImgDetMain" alt="Sckitlearn" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width:55px; height:55px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.6); transition:transform 0.3s ease;"/> </a>
+</p>
+<br>
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:42px; color:#ff7b00; text-shadow:3px 3px 10px rgba(0,0,0,0.8); letter-spacing:1.6px; font-weight:900; margin-bottom:14px;"> Design 🎨 :</h1>
+<br>
+<p align='center'>
+ <img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+ <img width="50px" src="https://th.bing.com/th/id/OIP.6hpx3Mwy5HO85Nf6FvwGBQHaHa?rs=1&pid=ImgDetMain" alt="Canva" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+ <img width="50px" src="https://1.bp.blogspot.com/-59kx_fxhrk4/VHsmin43jWI/AAAAAAAAADU/KZhAvKSsMSM/s1600/O2010.JPEG" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+ <img width="50px" src="https://th.bing.com/th?id=ODLS.98da2850-328f-4eb7-b848-2cb86cca5e80&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" style="width:50px; height:50px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" style="width:50px; height:50px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" style="width:50px; height:50px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/> </a> 
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" style="width:50px; height:50px; margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/> </a>
+</p>
+<br>
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:42px; color:#ff7b00; text-shadow:3px 3px 10px rgba(0,0,0,0.8); letter-spacing:1.6px; font-weight:900; margin-bottom:14px;">Testing:  🔧 </h1>
 <br>
 <p align="center">
-  <img width="55px" src="https://blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png" alt="#" />
- <img width="55px" src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="#" />
- <img width="55px" src="https://th.bing.com/th?id=ODLS.13d10589-3482-48de-a913-709672dfaab0&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" />
-  <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="#" />
- <img width="55px" src="https://th.bing.com/th/id/R.18bfea2a1b0c33427a36b2e6a9b196f5?rik=wZ6shfpGsr5deg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fsoapui-icon.png&ehk=XUL%2f4Ak0uAob4xsc3VafGr5B0eB91YteEPegEf3%2fQBY%3d&risl=&pid=ImgRaw&r=0" alt="#" />
- <img width="55px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" /> 
- </p>
+  <img width="60px" src="https://blog.knoldus.com/wp-content/uploads/2019/11/Appium-1.png" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+  <img width="60px" src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+  <img width="60px" src="https://th.bing.com/th?id=ODLS.13d10589-3482-48de-a913-709672dfaab0&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+  <img width="60px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+  <img width="60px" src="https://th.bing.com/th/id/R.18bfea2a1b0c33427a36b2e6a9b196f5?rik=wZ6shfpGsr5deg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fsoapui-icon.png&ehk=XUL%2f4Ak0uAob4xsc3VafGr5B0eB91YteEPegEf3%2fQBY%3d&risl=&pid=ImgRaw&r=0" alt="#" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/>
+  <img width="60px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" style="margin:8px; border-radius:12px; box-shadow:0 5px 12px rgba(0,0,0,0.7); transition:transform 0.3s ease;"/> 
+</p>
 <br>
+
  <h1 align="center" > IDEs/Editors 👨‍🔧 : </h1>
 <br>
 <p align="center">
@@ -241,53 +245,47 @@ u8<!-- First Image -->
 </p>
 <hr>
 <br>
-<h1 align="center">Blog's 📝</h1>
-<p align="left">
- <h1>My Journey as a frontend developer....</h1>
-<a href="#"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" /></a>
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
-"></a>
-<h2>Introduction:</h2><br>
-Hello Everyone I Himanshu Vashistha a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
-  <br>
-  <br>
-<p align="left">
- <br>
- <h1>My experience as a particpant at DRDO internship</h1>
-<a href="#" ><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="KWoC22" width="250px" align="left" /></a>
-<a href="#">
- <h2>DRDO internship 2024</h2>   
- 
-A heartfelt congratulations to Himanshu Vashistha, B.Tech (IT-3rd year), on embarking on a remarkable journey with DRDO under the Project- Advanced Temperature Monitoring & Optimization System! 🚀 Your dedication, passion, and hard work have truly paid off, Himanshu!
-Entering into such an innovative project signifies the beginning of an incredible chapter filled with learning, growth, and groundbreaking contributions. Your commitment to excellence and your drive to make a difference are truly commendable.
-Wishing you all the success and fulfillment in this new venture, Himanshu! May this opportunity bring you closer to your aspirations and dreams. The DRDO team is fortunate to have someone as talented and determined as you joining their ranks.
-Here's to seizing every opportunity, overcoming challenges, and achieving remarkable milestones along the way. Your future is incredibly bright, and I can't wait to witness all the amazing things you'll accomplish.
-Congratulations once again, Himanshu! 🎉👏 hashtag#NewVenture hashtag#DRDO hashtag#AdvancedTechnology hashtag#Congratulations hashtag#Success hashtag#HardWorkPaysOff
-
-<hr>
-<h1 align="center"> Which Activities Do I Follow For; <h1>
-
-<div style="flex-direction: row" >
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/tennis-logo_20448-250.jpg" width="100" alt="Tennis"/>
-  <img src="https://img.freepik.com/premium-vector/motorcycle-logo-vector_628306-40.jpg?w=360" width="100" alt="motorbike"/>
-  <img src="https://t4.ftcdn.net/jpg/03/15/06/25/360_F_315062527_Avi1JFli1KPmXcC9Tlcw34YAzcr5nQzn.jpg" width="100" alt="walking"/>
-  <img src="https://thumbs.dreamstime.com/b/gym-logo-fitness-center-design-template-black-barbell-isolated-white-background-vector-103252465.jpg" width="100" alt="gym"/>
-</p>
- <h2 align="center" >🧗‍♂️ Hobbies:</h2>
- <br>
-<img width="50" height="50" align="left" src="https://th.bing.com/th/id/OIP.aDwk0JVAKRlkCFJUbcuR2AHaHa?pid=ImgDet&rs=1"> I love Gaming!
-<h4 align="left" textalign="bold" >🚲  Bicycle racer</h4>
-<h4 align="left" >👨‍💻  Learning new things</h4>
-<h4 align="left" >⚽  Playing football</h4>
-<img width="95" height="35" align="left"src="https://www.logolynx.com/images/logolynx/0d/0daa3e8aeed1a093f6dc171143b47f03.jpeg"><h4 align="left" >Going out with friends</h4>
-<img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> <h4 align="left" >Programming</h4>
- <img width="25" align="left" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> <h4 align="left" >Watching Movies</h4>
- </div>
- <br>
- <hr>
- <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
+<br>
+<h1 align="center" style="font-family:'Poppins', Arial, sans-serif; font-size:46px; color:#ff7b00; text-shadow:4px 4px 12px rgba(0,0,0,0.9); letter-spacing:2px; font-weight:900; margin-bottom:18px; border-bottom:3px solid #ff7b00; display:inline-block; padding-bottom:6px;">Blog's 📝</h1>
+
+<div style="max-width:1000px; margin:auto; font-family:'Poppins', Arial, sans-serif; color:#e0e0e0; line-height:1.8;">
+
+<h1 style="color:#FFD700; text-shadow:2px 2px 6px rgba(0,0,0,0.7); font-size:30px;">My Journey as a Frontend Developer...</h1>
+<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" target="_blank"><img src="https://th.bing.com/th/id/OIP.bFxuSDaRfAfrU-aBnxTYKAHaIB?rs=1&pid=ImgDetMain" alt="Front-end-journey" width="250px" align="left" style="margin:10px 20px 10px 0; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.8); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<p style="font-size:18px; text-align:justify;">Hello Everyone, I am <strong style="color:#00f0ff;">Himanshu Vashistha</strong>, currently a <strong style="color:#FFD700;">3rd-year IT student at ABESIT</strong> and a passionate Frontend Developer with over a year of experience. I specialize in <strong style="color:#00f0ff;">ReactJS, JavaScript, and UI/UX Design</strong>. This blog shares my complete journey, tips, and free resources for beginners. Check out the full post to learn how I started from scratch and built my first real-world projects.</p>
+<div style="clear:both;"></div>
+
+<h1 style="color:#FFD700; text-shadow:2px 2px 6px rgba(0,0,0,0.7); font-size:30px;">My Experience as a Participant at DRDO Internship</h1>
+<a href="#" target="_blank"><img src="https://th.bing.com/th?id=OIP.nnIRtptc9yMCTjAwiT3wLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="DRDO Internship" width="250px" align="left" style="margin:10px 20px 10px 0; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.8); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<p style="font-size:18px; text-align:justify;">I had the privilege to work as an <strong style="color:#00f0ff;">ML Developer Intern</strong> at <strong style="color:#FFD700;">DRDO</strong> under the project <em>Advanced Temperature Monitoring & Optimization System</em>. This internship enhanced my expertise in <strong style="color:#00f0ff;">Machine Learning, Python, and Data Analysis</strong>. It also taught me how to collaborate effectively with research scientists and contribute to defense-related technology advancements. <strong>#NewVenture #DRDO #Success #HardWorkPaysOff</strong></p>
+<div style="clear:both;"></div>
+
+<hr style="border:1px solid #444; margin:30px 0;">
+<h1 align="center" style="font-size:36px; color:#ff7b00; text-shadow:2px 2px 8px rgba(0,0,0,0.8);">Which Activities Do I Follow?</h1>
+<p align="center" style="margin-top:10px;">
+  <img src="https://img.freepik.com/premium-vector/tennis-logo_20448-250.jpg" width="100" style="margin:8px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.7);"/>
+  <img src="https://img.freepik.com/premium-vector/motorcycle-logo-vector_628306-40.jpg?w=360" width="100" style="margin:8px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.7);"/>
+  <img src="https://t4.ftcdn.net/jpg/03/15/06/25/360_F_315062527_Avi1JFli1KPmXcC9Tlcw34YAzcr5nQzn.jpg" width="100" style="margin:8px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.7);"/>
+  <img src="https://thumbs.dreamstime.com/b/gym-logo-fitness-center-design-template-black-barbell-isolated-white-background-vector-103252465.jpg" width="100" style="margin:8px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.7);"/>
+</p>
+
+<h2 align="center" style="font-size:28px; color:#FFD700; margin-top:15px;">🧗‍♂️ Hobbies:</h2>
+<ul style="font-size:18px; color:#e0e0e0; line-height:1.8; list-style:none; padding-left:0;">
+<li>🎮 I love <strong style="color:#00f0ff;">Gaming</strong> (PUBG, Valorant, and Esports events)</li>
+<li>🚲 Bicycle Racer & Fitness Enthusiast</li>
+<li>👨‍💻 Learning New Technologies like <strong style="color:#FFD700;">Quantum Computing & AI</strong></li>
+<li>⚽ Playing Football with Friends</li>
+<li>👥 Networking & Attending Tech Meetups</li>
+<li>💻 Competitive Programming on <strong style="color:#00f0ff;">Hackerrank & LeetCode</strong></li>
+<li>🎬 Watching Sci-Fi and Tech-based Movies</li>
+</ul>
+
+<hr style="border:1px solid #444; margin:30px 0;">
+<h2 align='center' style="font-size:28px; color:#FFD700; text-shadow:2px 2px 6px rgba(0,0,0,0.7);">Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+
+
 
 
 <p align='center'>
